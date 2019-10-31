@@ -1,0 +1,12 @@
+{
+    "fair": ["ride", "show"],
+    "ride": ["swing", "horse"],
+    "show": ["day", "night"],
+    "beach": ["sandcastle", "water"],
+    "water": ["sunny", "cloudy"],
+    "sunny": ["boat", "swim"],
+    "zoo": ["animals", "aquarium"],
+    "aquarium": ["fish", "mammal"],
+    "animals": ["flying", "swimming"],
+    "swimming": ["otter"]
+}
