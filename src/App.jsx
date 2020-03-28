@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import SplitScreen from './SplitScreen';
+import SplitScreen from './Components/HomeScreen';
 
 const HomeScreen = styled.div`
   height: 100%;
